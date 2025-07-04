@@ -22,14 +22,12 @@ I'm a Data Science graduate student with a strong foundation in AI, ML, and data
 
 **Data Visualization**  
 ![Matplotlib](https://img.shields.io/badge/Tool-Matplotlib-red)  
-![Seaborn](https://img.shields.io/badge/Tool-Seaborn-blue)  
-![Plotly](https://img.shields.io/badge/Tool-Plotly-lightgrey)  
+![Seaborn](https://img.shields.io/badge/Tool-Seaborn-blue)   
 ![Tableau](https://img.shields.io/badge/Tool-Tableau-orange)  
 ![Power BI](https://img.shields.io/badge/Tool-Power%20BI-yellow)
 
 **Databases & Query Engines**  
-![MySQL](https://img.shields.io/badge/Tool-MySQL-blue)    
-![Apache Hive](https://img.shields.io/badge/Tool-Apache%20Hive-gold)  
+![MySQL](https://img.shields.io/badge/Tool-MySQL-blue)      
 ![MongoDB](https://img.shields.io/badge/Tool-MongoDB-green)
 
 **Big Data & Cloud Platforms**  
@@ -38,11 +36,8 @@ I'm a Data Science graduate student with a strong foundation in AI, ML, and data
 ![AWS](https://img.shields.io/badge/Tool-AWS-orange)
 
 **Web Development & Tools**  
-![HTML](https://img.shields.io/badge/Language-HTML5-orange)  
-![CSS](https://img.shields.io/badge/Language-CSS3-blue)  
-![JavaScript](https://img.shields.io/badge/Language-JavaScript-yellow)  
+![HTML](https://img.shields.io/badge/Language-HTML5-orange)    
 ![Streamlit](https://img.shields.io/badge/Tool-Streamlit-pink)  
-![Flask](https://img.shields.io/badge/Tool-Flask-lightgrey)
 
 **Version Control & Workflow**  
 ![Git](https://img.shields.io/badge/Tool-Git-black)  
